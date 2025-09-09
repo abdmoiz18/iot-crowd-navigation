@@ -25,10 +25,10 @@ A cloud-based system using Raspberry Pi, Azure, and LoRa-enabled ESP32 devices t
 - **ML:** Python, Pandas, Scikit-learn (Google Colab)
 
 ## 👥 Team
-- [Your Name] - Cloud & Gateway Architecture
-- [Teammate 1] - Hardware Firmware
-- [Teammate 2] - Hardware Integration
-- [Teammate 3] - Data Science & ML Model
+- [] - Cloud & Gateway Architecture
+- [] - Hardware Firmware
+- [] - Hardware Integration
+- [] - Data Science & ML Model
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
